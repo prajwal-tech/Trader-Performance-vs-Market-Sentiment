@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 1. Clone the repo
 ```bash
 git clone 
-cd primetrade-analysis
+cd 
 ```
 
 2. Add your datasets to the same folder:
